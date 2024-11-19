@@ -6,5 +6,10 @@
     "pt":{
         "greeting": "Ola, mundo!",
         "farewell": "Adeus"
+    },
+    "fr":{
+        "greeting":"Uiuiu, mundo"
+        "farewell":"Jessica feia, tchau"
     }
+    
 }
